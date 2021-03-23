@@ -1,4 +1,4 @@
-## Core Java IO<br> Como evitar o Java FileNotFoundException ao carregar recursos
+## Como evitar o Java FileNotFoundException ao carregar recursos
 
 # 1. Visão Geral
 Neste tutorial, exploraremos um problema que pode surgir ao ler arquivos de recursos em um aplicativo Java: em tempo de execução, a pasta de recursos raramente está no mesmo local no disco que está em nosso código-fonte.
